@@ -1,0 +1,4 @@
+---
+featured: true
+private: true
+---
