@@ -1,5 +1,5 @@
 ---
-description: ab dem 28. April 2025 in der Priesterkate in Büchen-Dorf
+description: Ausstellung ab 27. April 2025 in der Priesterkate in Büchen-Dorf
 #lastmod: 2023-07-05
 title: Kerstin Reimers - Malerei & Fotografie
 featured_image: usa-reise/selfie-durch-den-rueckspiegel.jpg
