@@ -4,7 +4,10 @@ description: ab dem 27. April 2025 in der Priesterkate in Büchen-Dorf
 featured_image: kerstin-reimers.jpg
 menus:
   main:
-    name: Home
+    name: Startseite
+    weight: -1
+  footer:
+    name: Startseite
     weight: -1
 ---
 
