@@ -1,0 +1,11 @@
+{{ if .Title }}
+  <hgroup>
+    <div class="title-image-container">
+    <img src="{{ .Params.featured_image}}" alt="Featured Image">
+    <div class="overlay">
+      <h2>{{ .Params.title }}</h2>
+      <h1>{{ .Site.Title }}</h1>
+    </div>
+    </div>
+  </hgroup>
+{{ end }}
