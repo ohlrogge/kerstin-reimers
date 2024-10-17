@@ -1,0 +1,12 @@
+{
+    "cSpell.language": "en,de",
+    "markdownlint.config": {
+        "single-h1": {
+            "level": 2,
+            "front_matter_title": "^\\s*title\\s*[:=]"
+        },
+    },
+    "cSpell.words": [
+        "kerstin"
+    ],
+}
