@@ -19,7 +19,7 @@ Liebe Neugierige!
 
 Wir laden Sie herzlich zur Ausstellung der Kunstwerke von Kerstin Reimers in die Priesterkate in Büchen-Dorf ein.
 
-Unsere Tante und Schwester hätte bald ihren 60. Geburtstag,  anlässlich dessen wir ihre Kunstwerke vorstellen.
+Unsere Tante und Schwester hätte bald ihren 60. Geburtstag, anlässlich dessen wir ihre Kunstwerke vorstellen.
 
 Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken entstanden sind. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien.
 
@@ -29,7 +29,7 @@ Tauchen Sie ein in die Welt von Kerstin Reimers, lassen Sie sich von ihren Werke
 
 Kerstin Reimers wurde 1965 in Büchen geboren.
 
-Dort besuchte sie bis zur Mittleren Reife die Schule und später in Mölln.
+Dort besuchte sie bis zur Mittleren Reife die Schule und legte ihr Fachabitur in Mölln ab.
 
 Für ihr Grafikdesign-Studium packte sie ihre Koffer und zog nach Hildesheim. Ihr Auslandssemester verbrachte sie in Wisconsin, USA, wo eine Vielzahl von Dias entstand, die viele Jahre in einem Karton bei ihrer Mutter im Keller lagerten.
 
