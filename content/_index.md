@@ -19,7 +19,7 @@ Liebe Neugierige!
 
 Wir laden Sie herzlich zur Ausstellung der Kunstwerke von Kerstin Reimers in die Priesterkate in Büchen-Dorf ein.
 
-Unsere Tante und Schwester ihren 60. Geburtstags möchten wir an sie erinnern und eine Auswahl ihrer Kunstwerke vorstellen.
+Unsere Tante und Schwester hat ihren 60. Geburtstags, daher möchten wir an sie erinnern und eine Auswahl ihrer Kunstwerke vorstellen.
 
 Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken entstanden sind. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien.
 
