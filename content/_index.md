@@ -19,7 +19,7 @@ Liebe Neugierige!
 
 Wir laden Sie herzlich zur Ausstellung der Kunstwerke von Kerstin Reimers in die Priesterkate in Büchen-Dorf ein.
 
-Unsere Tante und Schwester hat ihren 60. Geburtstags, daher möchten wir an sie erinnern und eine Auswahl ihrer Kunstwerke vorstellen.
+2025 bietet sich als guter Zeitpunkt für die Ausstellung an. Kerstin hätte in diesem Jahr ihren 60 Geburtstag.
 
 Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken entstanden sind. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien.
 
@@ -35,7 +35,7 @@ Für ihr Grafikdesign-Studium packte sie ihre Koffer und zog nach Hildesheim. Ih
 
 Nach ihrem Abschluss in Hildesheim verfolgte sie ihre Leidenschaft für Kunst und Fotografie weiter. 1992 verunglückte Kerstin tödlich und hinterließ eine große Lücke. Bis heute erinnern Geschichten, Fotos und Kunstwerke an die Künstlerin.
 
-Kerstins Neffe Niklas entstaubte nach über 30 Jahren die Dias. Er digitalisierte und sichtete sie, was zur Idee für diese Ausstellung führte.
+Kerstins Neffe Niklas entstaubte nach über 30 Jahren die Dias. Er sichtete und digitalisierte sie, was zur Idee für diese Ausstellung führte.
 
 Diese Ausstellung soll den Kunstwerken von Kerstin Anerkennung entgegenbringen und an ihr Leben und ihre Person erinnern.
 
