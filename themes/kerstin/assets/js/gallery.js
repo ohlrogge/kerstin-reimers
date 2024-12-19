@@ -20,7 +20,23 @@ if (gallery) {
     if (containerWidth === gallery.getBoundingClientRect().width) return;
     containerWidth = gallery.getBoundingClientRect().width;
 
-    const geometry = justifiedLayout(input, {
+    const geometrySmallViewport = justifiedLayout(input, {
+      containerWidth,
+      containerPadding: 0,
+      boxSpacing: 10, // default: 10
+      targetRowHeight: 50,
+      targetRowHeightTolerance: 0.25, // default: 0.25
+    });
+    
+    const geometryMediumViewport = justifiedLayout(input, {
+      containerWidth,
+      containerPadding: 0,
+      boxSpacing: 10, // default: 10
+      targetRowHeight: 150,
+      targetRowHeightTolerance: 0.25, // default: 0.25
+    });
+
+    const geometryLargeViewport = justifiedLayout(input, {
       containerWidth,
       containerPadding: 0,
       boxSpacing: 10, // default: 10
@@ -28,24 +44,75 @@ if (gallery) {
       targetRowHeightTolerance: 0.25, // default: 0.25
     });
 
-    items.forEach((item, i) => {
-      const { width, height, top, left } = geometry.boxes[i];
-      item.style.position = "absolute";
-      item.style.width = width + "px";
-      item.style.height = height + "px";
-      item.style.top = top + "px";
-      item.style.left = left + "px";
-      item.style.overflow = "hidden";
+    let smallViewPort = "";
+    let mediumViewPort = "";
+    let largeViewPort = "";
+
+    items.forEach((_item, i) => {
+      smallViewPort += `
+        #gallery-item-${i} {
+          position: absolute;
+          width: ${geometrySmallViewport.boxes[i].width}px;
+          height: ${geometrySmallViewport.boxes[i].height}px;
+          top: ${geometrySmallViewport.boxes[i].top}px;
+          left: ${geometrySmallViewport.boxes[i].left}px;
+          overflow: hidden;
+        }
+      `;
+
+      mediumViewPort += `
+        #gallery-item-${i} {
+          position: absolute;
+          width: ${geometryMediumViewport.boxes[i].width}px;
+          height: ${geometryMediumViewport.boxes[i].height}px;
+          top: ${geometryMediumViewport.boxes[i].top}px;
+          left: ${geometryMediumViewport.boxes[i].left}px;
+          overflow: hidden;
+        }
+      `;
+      largeViewPort += `
+        #gallery-item-${i} {
+          position: absolute;
+          width: ${geometryLargeViewport.boxes[i].width}px;
+          height: ${geometryLargeViewport.boxes[i].height}px;
+          top: ${geometryLargeViewport.boxes[i].top}px;
+          left: ${geometryLargeViewport.boxes[i].left}px;
+          overflow: hidden;
+        }
+    `;
     });
 
+    document.querySelector("style").textContent += `
+      @media only screen and (max-width: 350px) {
+        ${smallViewPort}
+        
+        #gallery {
+          height: ${geometrySmallViewport.containerHeight}px;
+        }
+      }
+
+      @media only screen and (max-width: 500px) {
+        ${mediumViewPort}
+        
+        #gallery {
+          height: ${geometryMediumViewport.containerHeight}px;
+        }
+      }
+      @media only screen and (min-width: 501px) {
+        ${largeViewPort}
+
+        #gallery {
+          height: ${geometryLargeViewport.containerHeight}px;
+        }
+      }
+    `;
+
     gallery.style.position = "relative";
-    gallery.style.height = geometry.containerHeight + "px";
     gallery.style.visibility = "";
   }
 
   window.addEventListener("resize", updateGallery);
   window.addEventListener("orientationchange", updateGallery);
 
-  updateGallery();
   updateGallery();
 }

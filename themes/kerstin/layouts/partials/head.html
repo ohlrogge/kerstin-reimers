@@ -32,5 +32,6 @@
   }}
   {{ $js := resources.Get "js/main.js" | js.Build (dict "minify" true "params" $params) | resources.Fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
+  <style></style>
   {{- partial "head-custom.html" . -}}
 </head>
