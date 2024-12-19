@@ -24,7 +24,7 @@ if (gallery) {
       containerWidth,
       containerPadding: 0,
       boxSpacing: 10, // default: 10
-      targetRowHeight: 288,
+      targetRowHeight: 200,
       targetRowHeightTolerance: 0.25, // default: 0.25
     });
 

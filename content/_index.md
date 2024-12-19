@@ -25,6 +25,10 @@ Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken ents
 
 Tauchen Sie ein in die Welt von Kerstin, lassen Sie sich von ihren Werken inspirieren und von den Fotografien in die USA zur Zeit der Wende entführen.
 
+### Einblicke
+
+{{< gallery >}}
+
 ### Über Kerstin
 
 Kerstin wurde am 16. Mai 1965 in Büchen geboren.
