@@ -2,3 +2,5 @@ baseURL = 'https://kerstinreimers.de/'
 languageCode = 'de-de'
 title = 'Kerstin Reimers'
 theme = 'kerstin'
+[build]
+  noJSConfigInAssets = false
