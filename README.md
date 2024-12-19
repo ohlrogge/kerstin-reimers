@@ -16,6 +16,6 @@ The site is deployed using Cloudflare Pages. The deployment is triggered automat
 
 ## Links
 
-- [Website](https://kerstin-reimers.com)
+- [Website](https://kerstinreimers.de)
 - [Hugo](https://gohugo.io)
 - Theme is a customized version of the [Hugo Gallery Theme](https://github.com/nicokaiser/hugo-theme-gallery) by [Nico Kaiser](https://github.com/nicokaiser)
