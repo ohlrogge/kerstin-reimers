@@ -1,5 +1,5 @@
 <section class="gallery">
-  <div id="gallery" class="gallery-container">
+  <div id="gallery" class="gallery-container" style="visibility: hidden; height: 1px; overflow: hidden">
     {{ $images := slice }}
     {{ range $image := .Page.Resources.Match "home/*.jpg" }}
       {{ $title := "" }}

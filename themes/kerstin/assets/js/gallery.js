@@ -107,6 +107,7 @@ if (gallery) {
       }
     `;
 
+    gallery.style.height = ""
     gallery.style.position = "relative";
     gallery.style.visibility = "";
   }
