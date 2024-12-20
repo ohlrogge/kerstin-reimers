@@ -21,18 +21,7 @@ if (gallery) {
     containerWidth = gallery.getBoundingClientRect().width;
 
     function getTargetRowHeight() {
-      const widthHeightPairs = [
-        { minWidth: 501, targetRowHeight: 200 },
-        { minWidth: 361, targetRowHeight: 150 },
-        { minWidth: 261, targetRowHeight: 100 },
-        { minWidth: 205, targetRowHeight: 75 },
-      ]
-      for(pair of widthHeightPairs) {
-        if (window.matchMedia(`(min-width: ${pair.minWidth}px)`).matches) {
-          return pair.targetRowHeight;
-        }
-      }
-      return 60;
+      return window.innerWidth * 0.4;
     }
 
     const geometry = justifiedLayout(input, {
