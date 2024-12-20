@@ -20,15 +20,11 @@ if (gallery) {
     if (containerWidth === gallery.getBoundingClientRect().width) return;
     containerWidth = gallery.getBoundingClientRect().width;
 
-    function getTargetRowHeight() {
-      return window.innerWidth * 0.4;
-    }
-
     const geometry = justifiedLayout(input, {
       containerWidth,
       containerPadding: 0,
       boxSpacing: 10, // default: 10
-      targetRowHeight: getTargetRowHeight(), 
+      targetRowHeight: containerWidth * 0.4, 
       targetRowHeightTolerance: 0.25, // default: 0.25
     });
 
