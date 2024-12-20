@@ -126,16 +126,17 @@ hgroup {
       line-height: 1.75rem;
     }
   }
+
   &>.title-image-container {
     position: relative;
     max-width: 600px;
     width: 100%;
-  
+
     &>img {
       width: 100%;
       height: auto;
     }
-  
+
     &>.overlay {
       position: absolute;
       top: 80%;
@@ -143,41 +144,57 @@ hgroup {
       transform: translate(-50%, -50%);
       width: 100%;
       text-align: center;
-      background-color: var(--accent-1-transparent);
+      // background-color: var(--accent-1-transparent);
       padding: 10px;
       box-sizing: border-box;
-  
+      // backdrop-filter: blur(4px);
+      // box-shadow:
+      //   2px 2px 4px 2px var(--accent-1-transparent),
+      //   -2px -2px 4px 2px var(--accent-1-transparent);
+
       &>h1 {
         width: auto;
         font-size: 5.5rem;
         line-height: 5.0rem;
       }
-  
+
       &>h2 {
         font-family: 'dunbar-text';
         font-size: 3rem;
         line-height: 3rem;
         font-weight: 500;
       }
-  
+
+      &>.blurred-background {
+        position: absolute;
+        top: 0;
+        left: 2.5%;
+        width: 95%;
+        height: 100%;
+        background-color: var(--accent-1-transparent);
+        filter: blur(15px);
+        backdrop-filter: blur(1px);
+        z-index: -1;
+      }
+
       @media (max-width: 600px) {
         &>h1 {
           font-size: 4rem;
           line-height: 3.5rem;
         }
-  
+
         &>h2 {
           font-size: 2rem;
           line-height: 2rem;
         }
       }
-  
+
       @media (max-width: 400px) {
         &>h1 {
           font-size: 3.75rem;
           line-height: 3rem;
         }
-  
+
         &>h2 {
           font-size: 2rem;
           line-height: 2rem;
