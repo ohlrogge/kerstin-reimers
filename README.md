@@ -36,11 +36,17 @@ Cloudflare doesn't support buying `.de` domains. But it's possible to add a `.de
    - Cloudflare will automatically connect to the repository and initialize the deployment setup.
 
 3. Adjust Deployment Settings
-   - Set Hugo Version
-     - Add a variable `HUGO_VERSION` with the version used in the project, e.g., `0.140.0`. This ensures that an incompatible older version is not used.
    - Change Build Command
      - Set the build command to a custom command: `hugo -b $CF_PAGES_URL`.
      - This changes the base URL, ensuring that media files are loaded correctly, especially for preview deployments.
+   - Set Environment Variables
+     - Override `CF_PAGES_URL` for `Production` environment
+       - Add a variable `CF_PAGES_URL` in `Production` environment settings.
+       - The value should be the domain name, e.g., `https://kerstinreimers.de`.
+     - Set `HUGO_VERSION`
+       - Add a variable `HUGO_VERSION` in `Production` environment settings
+       - Add a variable `HUGO_VERSION` in `Preview` environment settings
+       - The value should be the version used in the project, e.g., `0.140.0`. This ensures that an incompatible older version is not used.
 
 ## Links
 
