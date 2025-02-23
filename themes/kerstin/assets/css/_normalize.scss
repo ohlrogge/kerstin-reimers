@@ -94,6 +94,16 @@ button {
   cursor: default;
 }
 
+ul {
+  li {
+    margin-left: 1rem;
+    list-style: disc;
+  }
+  li:last-child {
+    margin-bottom: 1rem;
+  }
+}
+
 :-moz-focusring {
   outline: 1px dotted ButtonText;
 }
