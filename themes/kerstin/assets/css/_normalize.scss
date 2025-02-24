@@ -33,7 +33,7 @@ h4,
 h5,
 h6 {
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 500;
   margin-bottom: 1rem;
 }
 
@@ -138,4 +138,19 @@ img,
 video {
   max-width: 100%;
   height: auto;
+}
+
+section { 
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-left: 0.25em;
+    text-decoration: underline;
+    text-underline-offset: -0.55em;
+    text-decoration-skip-ink: none; 
+    text-decoration-thickness:0.65em;
+    text-decoration-color: var(--accent-1);  }
 }
