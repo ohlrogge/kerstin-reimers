@@ -13,6 +13,8 @@ menus:
 
 # Eröffnung am 27.&nbsp;April&nbsp;2025
 
+## 13&nbsp;bis&nbsp;17&nbsp;Uhr
+
 ## in der Priesterkate Büchen
 
 Liebe Neugierige!
