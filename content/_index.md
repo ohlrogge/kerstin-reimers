@@ -61,11 +61,11 @@ Der Besuch der Ausstellung ist kostenlos.
 
 - **6. Mai 2025, 19:30 Uhr**  
   Büchen im Zweiten Weltkrieg, Vortrag von Dr. Heinz Bohlmann  
+- **17. Mai 2025, 19:00 Uhr**  
+  Open-Air-Konzert  
 - **27. Mai 2025, 19:30 Uhr**  
   Oldies und Rock mit "Hildebrandt und Friends"  
 - **24. Juni 2025, 19:30 Uhr**  
   Irish Folk-Konzert mit "Glenfiddle"  
-- **19. Juli 2025**  
-  Open-Air-Konzert
 
 Informationen zu den Veranstaltungen finden Sie auf der [Veranstaltungs-Website der Priesterkate](https://www.buechen.de/kultur/priesterkate/veranstaltungen/)
