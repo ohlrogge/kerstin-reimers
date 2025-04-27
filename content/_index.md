@@ -11,11 +11,32 @@ menus:
     weight: -1
 ---
 
-# Eröffnung am 27.&nbsp;April&nbsp;2025
+# in der Priesterkate Büchen
 
-## 13&nbsp;bis&nbsp;17&nbsp;Uhr
+## bis Ende Juli&nbsp;2025
 
-## in der Priesterkate Büchen
+### Termine
+
+Die Ausstellung kann bis Ende Ende Juli zu den Öffnungszeiten der Priesterkate besucht werden.
+
+Am **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
+
+Der Besuch der Ausstellung ist kostenlos.
+
+#### Weitere Veranstaltungen in der Priesterkate
+
+- **6. Mai 2025, 19:30 Uhr**  
+  Büchen im Zweiten Weltkrieg, Vortrag von Dr. Heinz Bohlmann  
+- **17. Mai 2025, 19:00 Uhr**  
+  Open-Air-Konzert  
+- **27. Mai 2025, 19:30 Uhr**  
+  Oldies und Rock mit "Hildebrandt und Friends"  
+- **24. Juni 2025, 19:30 Uhr**  
+  Irish Folk-Konzert mit "Glenfiddle"  
+
+Informationen zu den Veranstaltungen finden Sie auf der [Veranstaltungs-Website der Priesterkate](https://www.buechen.de/kultur/priesterkate/veranstaltungen/)
+
+### Einladung
 
 Liebe Neugierige!
 
@@ -26,6 +47,7 @@ Wir laden Sie herzlich zur Ausstellung der Kunstwerke von Kerstin Reimers in die
 Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken entstanden sind. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien.
 
 Tauchen Sie ein in die Welt von Kerstin, lassen Sie sich von ihren Werken inspirieren und von den Fotografien in die USA zur Zeit der Wende entführen.
+
 
 ### Einblicke
 
@@ -47,25 +69,3 @@ Diese Ausstellung soll den Kunstwerken von Kerstin Anerkennung entgegenbringen u
 
 Wir wünschen viel Spaß beim Schwelgen in Erinnerungen!
 
-### Termine
-
-Die Eröffnung der Ausstellung findet am **27. April 2025 von 13 bis 17 Uhr** statt. 
-
-Danach kann die Ausstellung bis Ende Ende Juli zu den Öffnungszeiten der Priesterkate besucht werden.
-
-Am **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
-
-Der Besuch der Ausstellung ist kostenlos.
-
-#### Weitere Veranstaltungen in der Priesterkate
-
-- **6. Mai 2025, 19:30 Uhr**  
-  Büchen im Zweiten Weltkrieg, Vortrag von Dr. Heinz Bohlmann  
-- **17. Mai 2025, 19:00 Uhr**  
-  Open-Air-Konzert  
-- **27. Mai 2025, 19:30 Uhr**  
-  Oldies und Rock mit "Hildebrandt und Friends"  
-- **24. Juni 2025, 19:30 Uhr**  
-  Irish Folk-Konzert mit "Glenfiddle"  
-
-Informationen zu den Veranstaltungen finden Sie auf der [Veranstaltungs-Website der Priesterkate](https://www.buechen.de/kultur/priesterkate/veranstaltungen/)
