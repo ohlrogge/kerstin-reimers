@@ -15,26 +15,13 @@ menus:
 
 ## bis Ende Juli&nbsp;2025
 
-### Termine
+Nächste Termine:
+- **Sonntag, 4. Mai 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Dienstag, 6. Mai 2025**: Vortrag von Dr. Heinz Bohlmann um 19:30 Uhr
+- **Sonntag, 11. Mai 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Dienstag, 17. Mai 2025**: Open-Air-Konzert um 19:00 Uhr
 
-Die Ausstellung kann bis Ende Ende Juli zu den Öffnungszeiten der Priesterkate besucht werden.
-
-Am **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
-
-Der Besuch der Ausstellung ist kostenlos.
-
-#### Weitere Veranstaltungen in der Priesterkate
-
-- **6. Mai 2025, 19:30 Uhr**  
-  Büchen im Zweiten Weltkrieg, Vortrag von Dr. Heinz Bohlmann  
-- **17. Mai 2025, 19:00 Uhr**  
-  Open-Air-Konzert  
-- **27. Mai 2025, 19:30 Uhr**  
-  Oldies und Rock mit "Hildebrandt und Friends"  
-- **24. Juni 2025, 19:30 Uhr**  
-  Irish Folk-Konzert mit "Glenfiddle"  
-
-Informationen zu den Veranstaltungen finden Sie auf der [Veranstaltungs-Website der Priesterkate](https://www.buechen.de/kultur/priesterkate/veranstaltungen/)
+[Weitere Termine](#weitere-termine) befinden sich am Ende dieser Seite.
 
 ### Einladung
 
@@ -69,3 +56,23 @@ Diese Ausstellung soll den Kunstwerken von Kerstin Anerkennung entgegenbringen u
 
 Wir wünschen viel Spaß beim Schwelgen in Erinnerungen!
 
+### Weitere Termine
+
+Die Ausstellung kann bis Ende Ende Juli zu den Öffnungszeiten der Priesterkate besucht werden.
+
+Am **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
+
+Der Besuch der Ausstellung ist kostenlos.
+
+#### Weitere Veranstaltungen in der Priesterkate
+
+- **6. Mai 2025, 19:30 Uhr**  
+  Büchen im Zweiten Weltkrieg, Vortrag von Dr. Heinz Bohlmann  
+- **17. Mai 2025, 19:00 Uhr**  
+  Open-Air-Konzert  
+- **27. Mai 2025, 19:30 Uhr**  
+  Oldies und Rock mit "Hildebrandt und Friends"  
+- **24. Juni 2025, 19:30 Uhr**  
+  Irish Folk-Konzert mit "Glenfiddle"  
+
+Informationen zu den Veranstaltungen finden Sie auf der [Veranstaltungs-Website der Priesterkate](https://www.buechen.de/kultur/priesterkate/veranstaltungen/).
