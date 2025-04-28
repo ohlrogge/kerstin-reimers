@@ -8,6 +8,7 @@
   <link rel="icon" type="image/png" href="{{ "assets/favicon.png" | relURL }}" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "assets/apple-touch-icon.png" | relURL }}" />
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
+  <meta name="og:title" content="{{ .Site.Title }} - {{ .Title }}" />
   {{ if .Params.keywords }}
     <meta name="keywords" content="{{ delimit .Params.keywords `, ` }}" />
   {{ end }}

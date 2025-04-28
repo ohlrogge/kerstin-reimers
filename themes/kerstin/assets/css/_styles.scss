@@ -186,6 +186,14 @@ hgroup {
 
 section.home {
   margin: 1rem auto 2rem;
+
+  p a {
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 0.1em;
+    text-decoration-skip-ink: none; 
+    text-decoration-thickness: 0.2em;
+    text-decoration-color: var(--accent-1);  }
 }
 
 section.galleries {
