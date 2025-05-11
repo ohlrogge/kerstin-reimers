@@ -16,10 +16,10 @@ menus:
 ## bis Ende Juli&nbsp;2025
 
 Nächste Termine:
-- **Sonntag, 4. Mai 2025**: Café geöffnet von 13 bis 18 Uhr
-- **Dienstag, 6. Mai 2025**: Vortrag von Dr. Heinz Bohlmann um 19:30 Uhr
 - **Sonntag, 11. Mai 2025**: Café geöffnet von 13 bis 18 Uhr
-- **Dienstag, 17. Mai 2025**: Open-Air-Konzert um 19:00 Uhr
+- **Samstag, 17. Mai 2025**: Open-Air-Konzert um 19:00 Uhr
+- **Sonntag, 1. Juni 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Sonntag, 8. Juni 2025**: Café geöffnet von 13 bis 18 Uhr
 
 [Weitere Termine](#weitere-termine) befinden sich am Ende dieser Seite.
 
@@ -66,8 +66,6 @@ Der Besuch der Ausstellung ist kostenlos.
 
 #### Weitere Veranstaltungen in der Priesterkate
 
-- **6. Mai 2025, 19:30 Uhr**  
-  Büchen im Zweiten Weltkrieg, Vortrag von Dr. Heinz Bohlmann  
 - **17. Mai 2025, 19:00 Uhr**  
   Open-Air-Konzert  
 - **27. Mai 2025, 19:30 Uhr**  
