@@ -16,8 +16,8 @@ menus:
 ## bis Ende Juli&nbsp;2025
 
 Nächste Termine:
-- **Sonntag, 11. Mai 2025**: Café geöffnet von 13 bis 18 Uhr
 - **Samstag, 17. Mai 2025**: Open-Air-Konzert um 19:00 Uhr
+- **Dienstag, 27. Mai 2025**: Oldies und Rock mit "Hildebrandt und Friends" um 19:30
 - **Sonntag, 1. Juni 2025**: Café geöffnet von 13 bis 18 Uhr
 - **Sonntag, 8. Juni 2025**: Café geöffnet von 13 bis 18 Uhr
 
