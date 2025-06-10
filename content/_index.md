@@ -16,9 +16,8 @@ menus:
 ## bis Ende Juli&nbsp;2025
 
 Nächste Termine:
-- **Dienstag, 27. Mai 2025**: Oldies und Rock mit "Hildebrandt und Friends" um 19:30
-- **Sonntag, 1. Juni 2025**: Café geöffnet von 13 bis 18 Uhr
-- **Sonntag, 8. Juni 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Sonntag, 6. Juli 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Sonntag, 13. Juli 2025**: Café geöffnet von 13 bis 18 Uhr
 
 [Weitere Termine](#weitere-termine) befinden sich am Ende dieser Seite.
 
@@ -62,12 +61,3 @@ Die Ausstellung kann bis Ende Ende Juli zu den Öffnungszeiten der Priesterkate 
 Am **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
 
 Der Besuch der Ausstellung ist kostenlos.
-
-#### Weitere Veranstaltungen in der Priesterkate
-
-- **27. Mai 2025, 19:30 Uhr**  
-  Oldies und Rock mit "Hildebrandt und Friends"  
-- **24. Juni 2025, 19:30 Uhr**  
-  Irish Folk-Konzert mit "Glenfiddle"  
-
-Informationen zu den Veranstaltungen finden Sie auf der [Veranstaltungs-Website der Priesterkate](https://www.buechen.de/kultur/priesterkate/veranstaltungen/).
