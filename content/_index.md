@@ -16,7 +16,6 @@ menus:
 ## bis Ende Juli&nbsp;2025
 
 Nächste Termine:
-- **Sonntag, 6. Juli 2025**: Café geöffnet von 13 bis 18 Uhr
 - **Sonntag, 13. Juli 2025**: Café geöffnet von 13 bis 18 Uhr
 
 [Weitere Termine](#weitere-termine) befinden sich am Ende dieser Seite.
@@ -27,7 +26,7 @@ Liebe Neugierige!
 
 Wir laden Sie herzlich zur Ausstellung der Kunstwerke von Kerstin Reimers in die Priesterkate in Büchen-Dorf ein.
 
-2025 bietet sich als guter Zeitpunkt für die Ausstellung an. Kerstin hätte in diesem Jahr ihren 60 Geburtstag.
+2025 bietet sich als guter Zeitpunkt für die Ausstellung an. Kerstin hätte in diesem Jahr ihren 60. Geburtstag.
 
 Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken entstanden sind. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien.
 
