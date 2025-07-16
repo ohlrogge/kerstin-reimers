@@ -13,12 +13,13 @@ menus:
 
 # in der Priesterkate Büchen
 
-## bis Ende Juli&nbsp;2025
+Die Ausstellung endet nun langsam, aber sicher. In den Stuben hängen noch ihre Fotografien aus ihrer Zeit in den USA. Die Gemälde, Grafiken und Zeichnungen in der Diele sind mittlerweile an ihre ursprünglichen Orte zurückgekehrt.
 
 Nächste Termine:
-- **Sonntag, 13. Juli 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Sonntag, 3. August 2025**: Café geöffnet von 13 bis 18 Uhr
+- **Sonntag, 10. August 2025**: Café geöffnet von 13 bis 18 Uhr
 
-[Weitere Termine](#weitere-termine) befinden sich am Ende dieser Seite.
+[Weitere Termine](#termine) befinden sich am Ende dieser Seite.
 
 ### Einladung
 
@@ -28,10 +29,9 @@ Wir laden Sie herzlich zur Ausstellung der Kunstwerke von Kerstin Reimers in die
 
 2025 bietet sich als guter Zeitpunkt für die Ausstellung an. Kerstin hätte in diesem Jahr ihren 60. Geburtstag.
 
-Wir zeigen eine Auswahl ihrer Kunstwerke, die mit verschiedensten Techniken entstanden sind. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien.
+ Ihre Kunstwerke sind die mit verschiedensten Techniken entstanden. Das Spektrum reicht von Aquarell über Kupferstich und Teerzeichnungen bis hin zu Fotografien. Aktuell zeigen wir noch ihre Fotografien.
 
-Tauchen Sie ein in die Welt von Kerstin, lassen Sie sich von ihren Werken inspirieren und von den Fotografien in die USA zur Zeit der Wende entführen.
-
+Tauchen Sie ein in die Welt von Kerstin, lassen Sie sich von ihren Fotografien in die USA zur Zeit der Wende entführen.
 
 ### Einblicke
 
@@ -53,10 +53,10 @@ Diese Ausstellung soll den Kunstwerken von Kerstin Anerkennung entgegenbringen u
 
 Wir wünschen viel Spaß beim Schwelgen in Erinnerungen!
 
-### Weitere Termine
+### Termine
 
-Die Ausstellung kann bis Ende Ende Juli zu den Öffnungszeiten der Priesterkate besucht werden.
+Die Ausstellung kann zu den Öffnungszeiten der Priesterkate besucht werden.
 
-Am **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
+An **jedem 1. und 2. Sonntag im Monat** hat das Café in der Priesterkate von **13 bis 18 Uhr** geöffnet. Hier können Sie bei Kaffee und Kuchen die Ausstellung genießen.
 
 Der Besuch der Ausstellung ist kostenlos.
