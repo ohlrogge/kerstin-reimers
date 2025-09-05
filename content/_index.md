@@ -15,12 +15,6 @@ menus:
 
 Die Ausstellung endet nun langsam, aber sicher. In den Stuben hängen noch ihre Fotografien aus ihrer Zeit in den USA. Die Gemälde, Grafiken und Zeichnungen in der Diele sind mittlerweile an ihre ursprünglichen Orte zurückgekehrt.
 
-Nächste Termine:
-- **Sonntag, 3. August 2025**: Café geöffnet von 13 bis 18 Uhr
-- **Sonntag, 10. August 2025**: Café geöffnet von 13 bis 18 Uhr
-
-[Weitere Termine](#termine) befinden sich am Ende dieser Seite.
-
 ### Einladung
 
 Liebe Neugierige!
